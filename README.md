@@ -297,7 +297,10 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 > 数据结构
 >> 树
 >>> 二叉树
+>>> 三叉树
+>>> 四叉树
 >>>> 平衡二叉树
+>>>> 红黑树
 >>>>> 满二叉树
 
 > src
